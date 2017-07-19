@@ -1,8 +1,8 @@
 # Bottom Navigation With Navigation Drawer
 
-<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/master/images/bottom_nav.png" alt="alt text" width="300px">
+<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/ bottom-nav-with-drawer-top/images/bottom_nav.png" alt="alt text" width="300px">
 
-<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/master/images/drawer.png" alt="alt text" width="300px">
+<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/ bottom-nav-with-drawer-top/images/drawer.png" alt="alt text" width="300px">
 
 ___
 layout/activity_main.xml
@@ -250,6 +250,7 @@ public class BottomNavPagerAdapter extends FragmentPagerAdapter {
 ```
 ___
 __All fragment are same as below__
+
 FirstFragment.java
 ```java
 public class FirstFragment extends Fragment {
