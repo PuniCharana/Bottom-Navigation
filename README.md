@@ -160,7 +160,7 @@ public class BottomNavPagerAdapter extends FragmentPagerAdapter {
 }
 ```
 ___
-*Same for all three fragments*
+__Same for all three fragments__
 
 FirstFragment.java
 ```java
@@ -194,7 +194,7 @@ fragment_first.xml
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Fragment 1" />
+        android:text="Home" />
 
 </FrameLayout>
 ```
