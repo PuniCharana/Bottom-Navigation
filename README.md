@@ -2,9 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/master/images/bottom_navigation.png" alt="alt text" width="300px">
 
-activity_main.xml
 ___
-
+activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -33,10 +32,8 @@ ___
 
 </LinearLayout>
 ```
-
-menu/navigation.xml
 ___
-
+menu/navigation.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
@@ -58,10 +55,8 @@ ___
 
 </menu>
 ```
-
-MainActivity.java
 ___
-
+MainActivity.java
 ```java
 public class MainActivity extends AppCompatActivity {
 
@@ -140,10 +135,8 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
-
-BottomNavPagerAdapter.java
 ___
-
+BottomNavPagerAdapter.java
 ```java
 public class BottomNavPagerAdapter extends FragmentPagerAdapter {
     private final List<Fragment> mFragmentList = new ArrayList<>();
@@ -166,8 +159,8 @@ public class BottomNavPagerAdapter extends FragmentPagerAdapter {
     }
 }
 ```
-
-Same for all three fragments 
+___
+*Same for all three fragments*
 
 FirstFragment.java
 ```java
@@ -188,6 +181,7 @@ public class FirstFragment extends Fragment {
 
 }
 ```
+___
 fragment_first.xml
 ```xml
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -203,5 +197,4 @@ fragment_first.xml
         android:text="Fragment 1" />
 
 </FrameLayout>
-
 ```
