@@ -1,8 +1,8 @@
 # Bottom Navigation With Navigation Drawer
 
-<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/ bottom-nav-with-drawer-top/images/bottom_nav.png" alt="alt text" width="300px">
+<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/bottom-nav-with-drawer-top/images/bottom_nav.png" alt="alt text" width="300px">
 
-<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/ bottom-nav-with-drawer-top/images/drawer.png" alt="alt text" width="300px">
+<img src="https://raw.githubusercontent.com/PuniCharana/Bottom-Navigation/bottom-nav-with-drawer-top/images/drawer.png" alt="alt text" width="300px">
 
 ___
 layout/activity_main.xml
